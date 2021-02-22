@@ -3,23 +3,17 @@
   position: relative;
   text-align: center;
   color: white;
+  height: 100%; 
+  width: 100%;
+  object-fit: contain;
 }
 
 .profile {
 	position: absolute;
-	top: 7%;
+	top: 8%;
     left: 1.2%;
-	height: 85%; 
+	height: 82%; 
 	width: 11%;
-	object-fit: contain;
-}
-
-.microinfo {
-	position: absolute;
-	bottom: 6%;
-    right: -1.5%;
-	height: 12%; 
-	width: 25%;
 	object-fit: contain;
 }
 
