@@ -1,11 +1,9 @@
 /* Container holding the image and the text */
+
 .container {
   position: relative;
   text-align: center;
   color: white;
-  height: 100%; 
-  width: 100%;
-  object-fit: contain;
 }
 
 .profile {
@@ -19,7 +17,7 @@
 
 .name {
   position: absolute;
-  top: 29%;
+  top: 30%;
   left: 13.5%;
   font-family: "Bebas Neue";
   font-size: 200%;
@@ -31,6 +29,6 @@
   top: 50%;
   left: 13.5%;
   font-family: "Bebas Neue";
-  font-size: 140%;
+  font-size: 135%;
   object-fit: contain;
 }
