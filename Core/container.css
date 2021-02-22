@@ -1,0 +1,42 @@
+/* Container holding the image and the text */
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+.profile {
+	position: absolute;
+	top: 7%;
+    left: 1.2%;
+	height: 85%; 
+	width: 11%;
+	object-fit: contain;
+}
+
+.microinfo {
+	position: absolute;
+	bottom: 6%;
+    right: -1.5%;
+	height: 12%; 
+	width: 25%;
+	object-fit: contain;
+}
+
+.name {
+  position: absolute;
+  top: 29%;
+  left: 13.5%;
+  font-family: "Bebas Neue";
+  font-size: 200%;
+  object-fit: contain;
+}
+
+.university {
+  position: absolute;
+  top: 50%;
+  left: 13.5%;
+  font-family: "Bebas Neue";
+  font-size: 140%;
+  object-fit: contain;
+}
