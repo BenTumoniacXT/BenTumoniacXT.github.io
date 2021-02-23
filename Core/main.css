@@ -11,9 +11,9 @@ body {
 .profile {
 	position: absolute;
 	top: 10%;
-    left: -3%;
+    left: -5%;
 	height: 75%; 
-	width: 11%;
+	width: 15%;
 	object-fit: contain;
 }
 
