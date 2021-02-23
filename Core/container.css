@@ -8,27 +8,27 @@
 
 .profile {
 	position: absolute;
-	top: 8%;
-    left: 1.2%;
-	height: 82%; 
+	top: 10%;
+    left: -3%;
+	height: 75%; 
 	width: 11%;
 	object-fit: contain;
 }
 
 .name {
   position: absolute;
-  top: 30%;
-  left: 13.5%;
+  top: 24%;
+  left: 5%;
   font-family: "Bebas Neue";
-  font-size: 200%;
+  font-size: 180%;
   object-fit: contain;
 }
 
-.university {
+.title {
   position: absolute;
-  top: 50%;
-  left: 13.5%;
+  top: 23%;
+  right: 1.5%;
   font-family: "Bebas Neue";
-  font-size: 135%;
+  font-size: 180%;
   object-fit: contain;
 }
