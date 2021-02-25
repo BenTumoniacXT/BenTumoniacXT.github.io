@@ -1,6 +1,16 @@
 .footer {
   position: fixed;
-  left: 1%;
+  left: 0;
   bottom: 0;
   width: 100%;
+  background-color: black;
+}
+
+.warning {
+  position: absolute;
+  top: 15%;
+  left: 48%;
+  width: 52%;
+  object-fit: contain;
+  color: white;
 }
