@@ -11,7 +11,7 @@ body {
 .profile {
 	position: absolute;
 	top: 13%;
-  left: -5%;
+  left: -5.2%;
 	height: 67%; 
 	width: 15%;
 	object-fit: contain;
@@ -20,7 +20,7 @@ body {
 .name {
   position: absolute;
   top: 26%;
-  left: 4.7%;
+  left: 4.5%;
   font-size: 155%;
   object-fit: contain;
 }
