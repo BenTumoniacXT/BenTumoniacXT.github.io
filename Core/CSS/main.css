@@ -20,7 +20,7 @@ body {
 
 .name {
   position: absolute;
-  top: 25%;
+  top: 24%;
   left: 4.8%;
   font-size: 180%;
   object-fit: contain;
@@ -28,7 +28,7 @@ body {
 
 .title {
   position: absolute;
-  top: 25%;
+  top: 24%;
   right: 1.5%;
   font-size: 180%;
   object-fit: contain;
