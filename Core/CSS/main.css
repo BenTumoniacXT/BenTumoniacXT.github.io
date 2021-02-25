@@ -1,5 +1,6 @@
 body {
   background-color: white;
+  margin: 0;
 }
 
 .container {
@@ -10,24 +11,24 @@ body {
 
 .profile {
 	position: absolute;
-	top: 9.5%;
+	top: 12%;
   left: -5%;
-	height: 75%; 
+	height: 70%; 
 	width: 15%;
 	object-fit: contain;
 }
 
 .name {
   position: absolute;
-  top: 24%;
-  left: 5%;
+  top: 25%;
+  left: 4.8%;
   font-size: 180%;
   object-fit: contain;
 }
 
 .title {
   position: absolute;
-  top: 23%;
+  top: 25%;
   right: 1.5%;
   font-size: 180%;
   object-fit: contain;
