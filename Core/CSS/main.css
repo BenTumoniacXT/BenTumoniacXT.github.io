@@ -10,8 +10,8 @@ body {
 
 .profile {
 	position: absolute;
-	top: 10%;
-    left: -5%;
+	top: 9.5%;
+  left: -5%;
 	height: 75%; 
 	width: 15%;
 	object-fit: contain;
