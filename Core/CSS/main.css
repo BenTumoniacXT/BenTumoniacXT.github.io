@@ -11,25 +11,25 @@ body {
 
 .profile {
 	position: absolute;
-	top: 12%;
+	top: 13%;
   left: -5%;
-	height: 70%; 
+	height: 67%; 
 	width: 15%;
 	object-fit: contain;
 }
 
 .name {
   position: absolute;
-  top: 24%;
-  left: 4.8%;
-  font-size: 180%;
+  top: 26%;
+  left: 4.7%;
+  font-size: 155%;
   object-fit: contain;
 }
 
 .title {
   position: absolute;
-  top: 24%;
+  top: 26%;
   right: 1.5%;
-  font-size: 180%;
+  font-size: 155%;
   object-fit: contain;
 }
